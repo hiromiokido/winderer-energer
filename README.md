@@ -1,2 +1,2 @@
-# winderer-energer
-The Wind Energy Group was created to apply, research, and study tools for DS and DE using wind energy data. We will run an OpenFAST container in Azure to generate data, creating containers that simulates a wind turbine model with different characteristics in a cloud provider.
+# Wind Energy Group
+The Wind Energy Group, from Renewable Energy Research, was created to apply, research, and study tools for data science and data engineering using wind energy data. To generate simulated data, we will be running an OpenFAST container in Azure. OpenFAST is a reliable tool that generates high-fidelity data from wind turbines. Through this development, we want to generate multiple Docker containers that run simulations of a wind turbine model with different characteristics in a cloud provider.
